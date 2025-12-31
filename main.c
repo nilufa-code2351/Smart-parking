@@ -6,7 +6,7 @@ int main() {
     Slot slots[MAX_SLOTS] = {
         {1, "Dhanmondi", 50, 0},
         {2, "Gulshan", 80, 0},
-        {3, "Mirpur", 40, 0},
+        {3, "Mirpur", 40, 1},
         {4, "Banani", 70, 0},
         {5, "Uttara", 60, 0}
     };
@@ -23,4 +23,5 @@ int main() {
 
     return 0;
 }
+
 
